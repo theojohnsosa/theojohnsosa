@@ -4,25 +4,25 @@ Welcome to my GitHub profile! I’m a **Freshman in BSIT (Mobile and Web Applica
 
 ## 🚀 About Me
 - 🎓 **Pursuing:** Bachelor of Science in Information Technology with Specialization in Mobile and Web Applications (BSIT-MWA).
-- 💡 **Research Interests:** Full-Stack Development, AI Development, UX/UI Design.
-- 🔧 **Projects:** Building terminal-based Java and Python systems (ATM Simulator, Expense & Savings Tracker, Online Store Simulation, and Personalized To-Do List Manager).
-- 🎯 **Current Focus:** Java ATM Machine terminal-based project and Expense & Savings Tracker system.
+- 💡 **Research Interests:** Front-End Development, Web Development, UI/UX Design.
+- 🔧 **Projects:** Building terminal-based Java and Python systems (ATM Simulator, Expense & Savings Tracker, Online Store Simulation, and Cinema POS System).
+- 🎯 **Current Focus:** Java Swing (GUI) NetBeans (Drag and Drop) Cinema POS System
 - 🏋️ **Personal Goal:** Developing technical skills to land a hgih-paying job after finishing college and pursuing my software developer dreams abroad. 
 
 ## 💼 My Skills
-- **Languages:** Java, Python, HTML, CSS, JavaScript
-- **Tools & Technologies:** GitHub, Visual Studio Code, and Figma
-- **Specialization:** Mobile & Web Applications, Terminal-Based Systems
+- **Languages:** Java, Python, HTML, CSS
+- **Tools & Technologies:** GitHub, Visual Studio Code, Cursor, and Figma
+- **Specialization:** Mobile & Web Applications
 - **Problem Solving:** Practical, simple, and elegant solutions to complex issues
 
 ## 🌱 Currently Learning
-- Object-Oriented Programming
-- Enhancing terminal-based projects to impress professionals
+- Java Swing (GUI)
+- NetBeans (Drag and Drop)
 
 ## 🏆 Notable Projects
 - 💳 **ATM Machine Simulator:** A Java-based console app simulating real-world banking operations with a unique twist.
 - 📊 **Expense & Savings Tracker:** A Python-based system to track daily expenses and savings in customizable categories.
-- 📝 **Personalized To-Do List Manager:** A simple but effective task management system built in Python.
+- 📝 **Cinema POS System:** A Java Swing-based GUI app built with NetBeans for managing cinema ticketing and snack sales. (In Developement/In Progress)
 
 ## 📫 How to Reach Me
 - 💼 **LinkedIn:** [Theojohn Sosa](https://www.linkedin.com/in/theojohn-sosa-493053319/)
